@@ -5,4 +5,7 @@ LSMC Assignment with Variance Reduction methods for a FE5112 assignment.
 3. Used Control Variate method with a simple European Put option as the control.
 4. Used importance sampling but yielded undesired results.
 
-If anyone sees this, please feel free to critique my analysis. 
+Please feel free to critique my analysis. 
+
+#TODO
+Rewrite everything in C++
